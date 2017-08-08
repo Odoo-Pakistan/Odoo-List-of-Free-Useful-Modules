@@ -8,7 +8,12 @@ Accounting and Finance:
 
 Point of Sale:
 
-Product Barcode Generator https://github.com/meswapnilwagh/odoo-adr/tree/master/pos-addons/product_barcode_generator
+Product Barcode Generator:
+https://github.com/meswapnilwagh/odoo-adr/tree/master/pos-addons/product_barcode_generator
+
+POS keyboard: 
+Module allows to use usual keyboard (not virtual one) in Point of Sale.
+https://github.com/meswapnilwagh/odoo-adr/tree/master/pos-addons/pos_keyboard
 
 
 Sales:
